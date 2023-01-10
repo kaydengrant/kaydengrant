@@ -2,7 +2,7 @@
 
 - :school: Student at the University of Washington Bothell 24' 🟣🟡
 - :mortar_board: Studying Computer Science & Software Engineering
-- 📲 I love to work in the Front-End using TypeScript and React
+- 📲 I love to work with TypeScript, React, and Node
 - 🌱 Currently learning Python
 
 
