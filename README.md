@@ -1,9 +1,7 @@
 ## Hello! 👋 I'm Kayden Grant
 
-- :school: Student at the University of Washington Bothell 24' 🟣🟡
-- :mortar_board: Studying Computer Science & Software Engineering
-- 📲 I love working with TypeScript and React to build responsive web applications
-- 🌱 Currently learning Python
+- :computer: I build accessible web applications
+- :apple: Programming Instructor @ Coding with Kids
 
 ### Learn more about me:
 - :briefcase: [Portfolio](https://kaydengrant.com/)
